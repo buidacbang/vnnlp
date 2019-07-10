@@ -618,13 +618,13 @@ angular.module('mm.core')
     "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch", "de-du": "Deutsch - Du", "el": "Ελληνικά", "en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fi": "Suomi", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語", "ko" : "한국어", "lt" : "Lietuvių", "mr": "मराठी", "nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sr-cr": "Српски", "sr-lt": "Srpski", "sv": "Svenska", "tr" : "Türkçe", "uk" : "Українська", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
-    "demo_sites": {"student": {"url": "http://viettel-training.com", "username": "student", "password": "moodle"}, "teacher": {"url": "http://viettel-training.com", "username": "teacher", "password": "moodle"}},
+    "demo_sites": {"student": {"url": "http://171.244.39.95/vnnlp/", "username": "student", "password": "moodle"}, "teacher": {"url": "http://171.244.39.95/vnnlp/", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://viettel-training.com",
+    "siteurl": "http://171.244.39.95/vnnlp/",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://viettel-training.com"
+    "privacypolicy": "http://171.244.39.95/vnnlp/"
 }
 );
